@@ -1,0 +1,9 @@
+psycopg2-binary
+SQLAlchemy
+pandas
+schedule
+validators
+requests
+beautifulsoup4
+lxml
+scikit-learn

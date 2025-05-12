@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib
+python-jose
+psycopg2-binary
+python-multipart
+validators
+requests
+beautifulsoup4
+lxml
+pandas

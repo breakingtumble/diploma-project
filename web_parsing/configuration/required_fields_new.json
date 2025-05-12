@@ -1,0 +1,12 @@
+{
+    "required_fields":[
+        {
+            "field_name": "title",
+            "field_params": ["html_div_class", "html_element_in_div_type", "html_element_in_div_class"]
+        },
+        {
+            "field_name": "price",
+            "field_params": ["html_div_class", "html_element_in_div_type", "html_element_in_div_class"]
+        }
+    ]
+}

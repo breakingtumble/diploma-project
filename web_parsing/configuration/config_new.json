@@ -1,0 +1,40 @@
+{
+    "marketplace_configurations": [
+        {
+            "name": "rozetka",
+            "marketplace_url": ["https://hard.rozetka.com.ua", "https://rozetka.com.ua", "https://bt.rozetka.com.ua/"],
+            "fields": [
+                {
+                    "name": "title",
+                    "html_div_class": "product-about__right-inner",
+                    "html_element_in_div_type":  "h1",
+                    "html_element_in_div_class": ["title__font"]
+                },
+                {
+                    "name": "price",
+                    "html_div_class": "product-price__wrap",
+                    "html_element_in_div_type":  "p",
+                    "html_element_in_div_class": ["product-price__big product-price__big-color-red", "product-price__big"]
+                }
+            ]
+        },
+        {
+            "name": "touch",
+            "marketplace_url": "https://touch.com.ua",
+            "fields": [
+                {
+                    "name": "title",
+                    "html_div_class": "titlePage_wrap",
+                    "html_element_in_div_type":  "h1",
+                    "html_element_in_div_class": ["changeName"]
+                },
+                {
+                    "name": "price",
+                    "html_div_class": "new_price 1",
+                    "html_element_in_div_type":  "a",
+                    "html_element_in_div_class": ["price changePrice"]
+                }
+            ]
+        }
+    ]
+}

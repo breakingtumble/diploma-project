@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vite/React build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Docker volumes and logs
+parse_db-data/
+*.log
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+*.swp
+
+# Ignore database and init scripts if not needed
+init/
+
+# Ignore compiled files
+*.so
+
+# Ignore coverage reports
+coverage/
+
+# Ignore frontend build cache
+frontend/.next/
+frontend/.cache/
+
+# Ignore backend build cache
+backend/.mypy_cache/
+backend/.pytest_cache/ 

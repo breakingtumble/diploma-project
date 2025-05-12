@@ -1,0 +1,22 @@
+.product-info {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+  padding: 2rem 3rem;
+  margin-top: 2rem;
+  min-width: 400px;
+  font-size: 1.2rem;
+}
+
+.product-link {
+  display: inline-block;
+  margin-top: 1.5rem;
+  color: #0094FF;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.product-link:hover {
+  color: #005fa3;
+} 
