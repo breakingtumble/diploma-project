@@ -11,6 +11,8 @@ __pycache__/
 dist/
 build/
 
+parsing/
+
 # System files
 .DS_Store
 Thumbs.db
@@ -29,9 +31,6 @@ parse_db-data/
 
 # OS generated files
 *.swp
-
-# Ignore database and init scripts if not needed
-init/
 
 # Ignore compiled files
 *.so
