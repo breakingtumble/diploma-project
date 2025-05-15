@@ -17,6 +17,8 @@ parsing/
 .DS_Store
 Thumbs.db
 
+parsing/
+
 # Environment files
 .env
 .env.*
